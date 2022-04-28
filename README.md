@@ -6,7 +6,7 @@
 - Uses HCAPTCHA Bypass
 
 # Requirements 
-- httpx https://pypi.org/project/httpx/
+- goes slow if you use no proxies, but you can use no proxies!
 - Rotating Proxies
 
 # INSTALL
